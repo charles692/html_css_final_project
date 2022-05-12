@@ -1,0 +1,108 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 1em/*100%*/; 
+    font-family: inherit;
+  }
+  /*62.5% makes the default font size 10px which is easier to do the math for.*/
+  html {
+    font-size: 62.5%;
+    background-image: url("bats.gif");
+  }
+
+body {
+    font-family: sans-serif;
+    background-color: white;
+    border: 2px black;
+    box-shadow: 0px 5px 10px 10px black;   
+}
+
+header {
+    background-image: linear-gradient(45deg, white 0, orange 75%, black 100%);
+    border-bottom: solid 2px black;
+}
+
+header img {
+
+}
+
+header h2 {
+    
+}
+
+header h2 {
+    font-size: 4em;
+}
+
+header h3 {
+    font-size: 1.8em;
+}
+
+nav {
+   
+}
+
+main {
+
+}
+
+article {
+    font-size: 1.6em;
+}
+article img {
+      
+}
+
+section {
+    
+}
+
+span {
+    font-size: 2.5em;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+article h2 {
+    font-size: 1.4em;
+}
+
+article h3 {
+    font-size: 1.2em;
+}
+
+a {
+    font-size: 1.17em;
+    font-weight: bold;
+    color: orange;
+}
+
+a:hover {
+    color: green;
+}
+
+ul {
+    list-style-type: disc;
+    
+}
+
+ul li {
+    
+}
+
+
+
+footer {
+    font-size: 1.3em;
+    height: 40px;
+    text-align: center;
+    background-image: linear-gradient(45deg, black 0, orange 25%, white 100%);
+    border-top: solid 2px black;
+}
+
+footer p {
+    
+}
